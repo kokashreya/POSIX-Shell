@@ -1,0 +1,8 @@
+history
+cd test
+echo hi
+echo hi>output.txt
+cat<example.txt
+echo "hello" > output.txt
+echo "hi">output.txt
+exit
